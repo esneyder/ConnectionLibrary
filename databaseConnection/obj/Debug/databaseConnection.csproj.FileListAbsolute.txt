@@ -1,0 +1,10 @@
+C:\Users\Sebastián\Desktop\Connection library\databaseConnection\bin\Debug\databaseConnection.dll
+C:\Users\Sebastián\Desktop\Connection library\databaseConnection\bin\Debug\databaseConnection.pdb
+C:\Users\Sebastián\Desktop\Connection library\databaseConnection\obj\Debug\databaseConnection.csprojResolveAssemblyReference.cache
+C:\Users\Sebastián\Desktop\Connection library\databaseConnection\obj\Debug\databaseConnection.dll
+C:\Users\Sebastián\Desktop\Connection library\databaseConnection\obj\Debug\databaseConnection.pdb
+C:\Users\azuretools\Desktop\ConnectionLibrary\databaseConnection\bin\Debug\databaseConnection.dll
+C:\Users\azuretools\Desktop\ConnectionLibrary\databaseConnection\bin\Debug\databaseConnection.pdb
+C:\Users\azuretools\Desktop\ConnectionLibrary\databaseConnection\obj\Debug\databaseConnection.csprojResolveAssemblyReference.cache
+C:\Users\azuretools\Desktop\ConnectionLibrary\databaseConnection\obj\Debug\databaseConnection.dll
+C:\Users\azuretools\Desktop\ConnectionLibrary\databaseConnection\obj\Debug\databaseConnection.pdb
